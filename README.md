@@ -44,7 +44,11 @@ Cold Email Generator is an AI-powered tool that automates the process of extract
    - The user can copy, modify, and send the email directly.  
 
 ## **Demo**  
-🚀 **Coming soon...** (You can add a GIF or a short video here)  
+  
+
+https://github.com/user-attachments/assets/e1785bcd-257f-4fb2-9939-21408bb15663
+
+
 
 ## **Contributing**  
 Want to improve this project? Fork the repo, make changes, and submit a PR! 
