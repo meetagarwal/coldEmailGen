@@ -5,3 +5,4 @@ langchain-groq
 chromadb
 pandas
 python-dotenv
+pysqlite3-binary
