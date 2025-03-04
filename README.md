@@ -11,7 +11,6 @@ Cold Email Generator is an AI-powered tool that automates the process of extract
 ✅ Provides a simple and interactive **Streamlit UI** for easy usage.  
 
 ## **How It Works**  
-![architecture](https://github.com/user-attachments/assets/153020f1-30e4-4129-80c2-cfe47dba9596)
 
 1. **User Inputs a Job Posting URL**  
    - The user provides a link to a job listing (e.g., Flipkart Careers page).  
